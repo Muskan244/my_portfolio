@@ -9,12 +9,6 @@ const achievements = [
     title: "Flipkart Grid 7.0 Semifinals",
     description: "Reached the semifinals of Flipkart Grid 7.0, showcasing strong problem-solving and competitive programming skills.",
     link: "https://drive.google.com/file/d/1nL9PjcQgMEThE-I4gPL37IaQEw0URhA_/view?usp=sharing"
-  },
-  {
-    icon: Trophy,
-    title: "CodeChef Global Rank 44",
-    description: "Secured global rank 44 in CodeChef's Starters 128 competition, demonstrating exceptional problem-solving and algorithmic thinking skills.",
-    link: "https://www.codechef.com/users/muskanraghav"
   }
 ];
 
@@ -22,7 +16,7 @@ const profiles = [
   {
     platform: "CodeChef",
     username: "Muskan Raghav",
-    link: "https://www.codechef.com/users/muskanraghav"
+    link: "https://www.codechef.com/users/muskan_raghav"
   },
   {
     platform: "Codeforces",

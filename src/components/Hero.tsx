@@ -69,7 +69,7 @@ const Hero = () => {
               variants={itemVariants}
             >
               B.Tech CSE at Jaypee University | Passionate about building scalable web applications 
-              and contributing to open source. Competitive programmer with global rank 44 on CodeChef.
+              and contributing to open source. Competitive programmer and semi-finalist in Flipkart Grid 7.0.
             </motion.p>
 
             <motion.div

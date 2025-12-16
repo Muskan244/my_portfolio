@@ -64,7 +64,7 @@ const About = () => {
                   </div>
                   <h3 className="text-xl font-semibold">Achievements</h3>
                   <p className="text-muted-foreground">
-                    Secured Global Rank 44 in CodeChef Starters 128 and reached the Semifinals of Flipkart Grid 7.0, demonstrating strong problem-solving and competitive programming skills.
+                    Reached the Semifinals of Flipkart Grid 7.0, demonstrating strong problem-solving and competitive programming skills.
                   </p>
                 </CardContent>
               </Card>
